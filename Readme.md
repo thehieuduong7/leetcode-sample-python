@@ -3,6 +3,9 @@
 ## Overview
 This repository contains solutions to LeetCode problems with clean, optimized code and detailed explanations.
 
+## DSA Roadmap
+![DSA Roadmap](assets/roadmap%20dsa.png)
+
 
 ## Getting Started
 1. Clone the repository
